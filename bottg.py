@@ -14,10 +14,10 @@ from aiogram.utils.exceptions import Unauthorized
 logging.basicConfig(level=logging.INFO)
 
 # Токен вашого бота
-API_TOKEN = '6014486611:AAGxTGLgN8NIOgLp3Ok0w5uJkMB7DPZpR60'
+API_TOKEN = ''
 
 # Айді адміна (замініть на свій)
-ADMIN_ID = '5588837419'
+ADMIN_ID = ''
 
 # Налаштування підключення до бази даних
 DB_CONFIG = {
